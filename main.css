@@ -2,6 +2,7 @@
   font-family: Roboto;
   src: url(/Roboto/Roboto-Regular.ttf);
 }
+
 .top-container {
   border-radius: 10px 10px 10px;
   padding-bottom: 10px;
@@ -9,7 +10,6 @@
   border: 0 solid black;
 }
 .studio {
-  font-family: Roboto;
   font-size: 14px;
   font-weight: 500;
   line-height: 16px;
@@ -21,7 +21,6 @@
 }
 
 .webstudio1 {
-  font-family: Roboto;
   font-weight: 700;
   size: 26px;
   line-height: 30.52px;
@@ -33,7 +32,7 @@
 .mail1 {
   text-decoration: none;
   color: cornflowerblue;
-  font-family: Roboto;
+
   font-size: 14px;
   font-weight: 500;
   line-height: 16px;
@@ -43,7 +42,6 @@
 }
 
 .tel1 {
-  font-family: Roboto;
   font-size: 14px;
   font-weight: 500;
   line-height: 16px;
@@ -59,7 +57,6 @@
 }
 
 .portfolio22 {
-  font-family: Roboto;
   font-size: 14px;
   font-weight: 500;
   line-height: 16px;
@@ -75,7 +72,6 @@
 }
 
 .kontakti {
-  font-family: Roboto;
   font-size: 14px;
   font-weight: 500;
   line-height: 16px;
@@ -89,7 +85,6 @@
   color: rgba(33, 150, 243, 1);
 }
 .button1 {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 15px;
@@ -103,7 +98,6 @@
   background-color: rgba(33, 150, 243, 1);
 }
 .button2 {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 15px;
@@ -118,7 +112,6 @@
 }
 
 .button3 {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 15px;
@@ -132,7 +125,6 @@
   background-color: rgba(33, 150, 243, 1);
 }
 .button4 {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 15px;
@@ -146,7 +138,6 @@
   background-color: rgba(33, 150, 243, 1);
 }
 .button5 {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 15px;
@@ -161,16 +152,148 @@
 }
 
 .texnokrak {
-  font-family: "Roboto";
-  font-weight: 100;
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.vtexnokrak {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: rgba(117, 117, 117, 1);
 }
 .poster1 {
-  font-family: "Roboto";
-  font-weight: 100;
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster1-2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: rgba(117, 117, 117, 1);
 }
 .poster2 {
-  font-family: "Roboto";
-  font-weight: 100;
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster2-2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: rgba(117, 117, 117, 1);
+}
+.poster3 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster3-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.poster4 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster4-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.poster5 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster5-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.poster6 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster6-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.poster7 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster7-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.poster8 {
+  color: rgba(33, 33, 33, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+.poster8-2 {
+  color: rgba(117, 117, 117, 1);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
 }
 .sec2 {
   display: flex;
@@ -210,7 +333,6 @@
   text-align: left;
 }
 .tel22 {
-  font-family: Roboto;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
