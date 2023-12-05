@@ -9,9 +9,9 @@
   src: url(/Roboto/Roboto-Bold.ttf);
 }
 @font-face {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  src: url(/Roboto/Roboto-Light.ttf);
+  font-family: "Roboto" , sans-serif;
+  font-weight: 900;
+  src: url(/Roboto/Roboto-Black.ttf);
 }
 @font-face {
   font-family: 'Roboto', sans-serif;
@@ -182,7 +182,7 @@
 
 .texnokrak {
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   line-height: 36px;
@@ -202,7 +202,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -220,7 +220,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -228,7 +228,7 @@
 .poster2-2 {
   font-size: 16px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 400;
+  font-weight: 900;
   line-height: 30px;
   letter-spacing: 0.03em;
   text-align: left;
@@ -238,7 +238,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -256,7 +256,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -274,7 +274,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -292,7 +292,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -310,7 +310,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
@@ -328,7 +328,7 @@
   color: rgba(33, 33, 33, 1);
   font-size: 18px;
   font-family: "Roboto" , sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 36px;
   letter-spacing: 0.06em;
   text-align: left;
